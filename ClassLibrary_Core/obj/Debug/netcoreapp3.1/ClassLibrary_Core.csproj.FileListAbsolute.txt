@@ -1,0 +1,9 @@
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\bin\Debug\netcoreapp3.1\ClassLibrary_Core.deps.json
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\bin\Debug\netcoreapp3.1\ClassLibrary_Core.dll
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\bin\Debug\netcoreapp3.1\ClassLibrary_Core.pdb
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.csprojAssemblyReference.cache
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.AssemblyInfoInputs.cache
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.AssemblyInfo.cs
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.csproj.CoreCompileInputs.cache
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.dll
+C:\sachin\Azure\Samples\xunit\UnitTestCodeCoverage\CodeCoverage\ClassLibrary_Core\obj\Debug\netcoreapp3.1\ClassLibrary_Core.pdb
